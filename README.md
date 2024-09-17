@@ -1,4 +1,6 @@
 Face Recognition using Haar Cascade
+
+
 This repository contains a simple implementation of face detection using the Haar Cascade classifier in Python with OpenCV. Haar Cascade is a machine learning object detection algorithm used to identify objects in an image or video based on features.
 
 Overview
