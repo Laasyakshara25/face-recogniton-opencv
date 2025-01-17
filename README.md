@@ -24,7 +24,7 @@ Clone this repository:
 ### Face Detection:
 Below is an example of detected faces using Haar Cascade:
 
-![Face Detection Example](images/face_detection_example.png)
+![Face Detection Example](https://github.com/Laasyakshara25/face-recogniton-opencv/blob/main/Photos/face-detect.jpg)
 
 ### Face Recognition (Optional):
 Below is an example of recognized faces using an additional recognition module:
