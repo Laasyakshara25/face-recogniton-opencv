@@ -5,14 +5,6 @@ This repository provides a simple and effective implementation of **face detecti
 ## Overview
 Haar Cascade is a machine learning-based object detection algorithm used to identify objects (e.g., faces) in an image or video based on pre-trained features. This project leverages OpenCV's implementation of Haar Cascade to detect and optionally recognize faces in real-time. 
 
-### Key Features:
-- **Real-time Face Detection**: Detect faces using OpenCV’s pre-trained Haar Cascade classifier.  
-- **Face Recognition** (Optional): Extend the functionality by integrating a recognition module for identifying specific faces.  
-- **Ease of Use**: Minimal setup and straightforward code for beginners and advanced users alike.  
-- **Visualization**: Save and display images with detected faces.  
-
-## Getting Started
-
 ### Installation
 Clone this repository:
    ```bash
